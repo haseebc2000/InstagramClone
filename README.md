@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 *Walkthrough*
 
-<img src='sample.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='samplee.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 *App Icon*
 
