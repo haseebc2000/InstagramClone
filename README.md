@@ -27,9 +27,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+*Walkthrough*
+
 <img src='sample.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+*App Icon*
+
 <img src='sample2.gif' title='App Icon' width='' alt='App Icon' />
+
+*Capture Photo*
 
 <img src='sample3.gif' title='Capture Photo' width='' alt='Capture Photo' />
 
